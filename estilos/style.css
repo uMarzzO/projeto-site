@@ -25,6 +25,13 @@ h2{
     color: rgb(58, 0, 112);
 }
 
+p{
+    font-size: 16px;
+    color: black;
+    text-align: justify;
+    text-indent: 2em;
+}
+
 img.lado{
     float: right;
 }
